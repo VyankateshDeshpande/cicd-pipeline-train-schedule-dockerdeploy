@@ -15,4 +15,4 @@ You can run the app with:
 Once it is running, you can access it in a browser at http://localhost:8080
 
 ## This is Added header
-	These are my changes in myTestBranch to be merged to master. And new changes
+	These are my changes in myTestBranch to be merged to master. And new
